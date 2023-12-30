@@ -1,0 +1,4 @@
+numpy==1.26.2
+pandas==2.1.4
+pyspark==3.5.0
+pyspark[sql]==3.5.0

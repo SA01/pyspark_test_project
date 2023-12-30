@@ -1,0 +1,10 @@
+__pycache__
+venv
+package_env
+analysis_job_package
+data
+job_package
+package
+
+*.zip
+*.tar.gz
