@@ -1,4 +1,3 @@
-
 This repository contains the code for my article on Medium, which provides a comprehensive guide to setting up, packaging, and running PySpark projects efficiently. You can read the full article here:  
 [**Spark Essentials: A Guide to Setting Up, Packaging, and Running PySpark Projects**](https://medium.com/@suffyan.asad1/spark-essentials-a-guide-to-setting-up-packaging-and-running-pyspark-projects-2eb2a27523a3)
 
